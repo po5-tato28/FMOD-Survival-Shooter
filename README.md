@@ -6,7 +6,7 @@
 ### FMOD for Unity version
 2.00.10 (Unity Verified)
 
-### FMOD 
+### Download FMOD / Learning Resources
 * Unity Survival Shooter Project
 https://www.fmod.com/download#learningresources
 * Audio for Unity 5: Survival Shooter
